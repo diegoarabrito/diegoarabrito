@@ -10,7 +10,7 @@
 ## 🧠 Sobre mim
 
 - 🎯 Analista de Sistemas + Administrador de gente
-- 🎯 Gestão de I.A | Cocriação com I.A
+- 🎯 Gestão de I.A | Vibecoding
 - ⚙️ Especialista em resolver problema de empresa (com software ou não)
 - 💻 Foco em backend e sistemas que fazem sentido
 - 📈 Mentalidade: código + negócio + escala
