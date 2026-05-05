@@ -22,7 +22,6 @@
   <img src="https://img.shields.io/badge/PHP-Backend-777BB4?style=for-the-badge&logo=php">
   <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql">
   <img src="https://img.shields.io/badge/Bootstrap-UI-7952B3?style=for-the-badge&logo=bootstrap">
-  <img src="https://img.shields.io/badge/JavaScript-Frontend-F7DF1E?style=for-the-badge&logo=javascript">
   <img src="https://img.shields.io/badge/API-Integration-000000?style=for-the-badge">
 </p>
 
@@ -31,17 +30,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=diegoarabrito&show_icons=true&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoarabrito&layout=compact&theme=dark"/>
 </p>
 
 ---
 
-## 🚀 O que eu construo
+## 🚀 O que eu projeto / construo
 
 - 🔹 Sistemas administrativos completos
-- 🔹 CRUDs robustos com boas práticas (DAO, OOP, Singleton)
-- 🔹 Automação de processos empresariais
+- 🔹 Trabalho com boas práticas e otimizo processos
+- 🔹 Automação sistêmica de processos empresariais
 - 🔹 Integrações entre sistemas e APIs
 - 🔹 Ferramentas internas de alta eficiência
 
