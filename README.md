@@ -27,11 +27,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊Top Langs
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=diegoarabrito&show_icons=true&theme=dark"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoarabrito&layout=compact&theme=dark"/>
+ <img src="https://streak-stats.demolab.com?user=diegoarabrito&theme=dark"/>
 </p>
 
 ---
