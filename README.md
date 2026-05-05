@@ -65,5 +65,5 @@ Scripts e soluções para eliminar tarefas repetitivas e aumentar produtividade.
 ## 🧬 Filosofia
 
 ```txt
-Se uma empresa depende de apenas uma pessoa, ele é falho.
-Se um processo pode virar sistema, vira vantagem competitiva.
+Se uma empresa ou processo depende de apenas uma pessoa, isso é falha.
+Se um processo pode virar sistema, então porque não?!.
