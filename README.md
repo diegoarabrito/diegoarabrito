@@ -1,16 +1,70 @@
-## Hi there 👋
+<h1 align="center">🚀 Diego</h1>
+<h3 align="center">System Analyst | Business Thinker | Builder</h3>
 
-<!--
-**diegoarabrito/diegoarabrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Transformo processos bagunçados em sistemas que funcionam.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+
+- 🎯 Analista de Sistemas + Administrador de gente
+- ⚙️ Especialista em resolver problema de empresa (com software ou não)
+- 💻 Foco em backend e sistemas que fazem sentido
+- 📈 Mentalidade: código + negócio + escala
+
+---
+
+## ⚡ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/PHP-Backend-777BB4?style=for-the-badge&logo=php">
+  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql">
+  <img src="https://img.shields.io/badge/Bootstrap-UI-7952B3?style=for-the-badge&logo=bootstrap">
+  <img src="https://img.shields.io/badge/JavaScript-Frontend-F7DF1E?style=for-the-badge&logo=javascript">
+  <img src="https://img.shields.io/badge/API-Integration-000000?style=for-the-badge">
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark"/>
+</p>
+
+---
+
+## 🚀 O que eu construo
+
+- 🔹 Sistemas administrativos completos
+- 🔹 CRUDs robustos com boas práticas (DAO, OOP, Singleton)
+- 🔹 Automação de processos empresariais
+- 🔹 Integrações entre sistemas e APIs
+- 🔹 Ferramentas internas de alta eficiência
+
+---
+
+## 📦 Projetos-chave
+
+### 🧾 Sistema de Gestão de POPs
+Padronização e organização de processos empresariais com geração estruturada de procedimentos.
+
+### 📊 Importador CSV Inteligente
+Processamento em lote com feedback visual, otimização e controle de erros.
+
+### 📋 Kanban Web
+Gerenciamento de tarefas com edição dinâmica e interface leve.
+
+### ⚙️ Automações Empresariais
+Scripts e soluções para eliminar tarefas repetitivas e aumentar produtividade.
+
+---
+
+## 🧬 Filosofia
+
+```txt
+Se o processo depende de humano, ele é falho.
+Se pode virar sistema, vira vantagem competitiva.
