@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Diego</h1>
+<h1 align="center">🚀 Diego Brito</h1>
 <h3 align="center">System Analyst | Business Thinker | Builder</h3>
 
 <p align="center">
