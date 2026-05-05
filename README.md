@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Diego Brito</h1>
-<h3 align="center">System Analyst | Business Thinker | Builder</h3>
+<h3 align="center">System Analyst | Business Analyst | Developer | Designer | Builder </h3>
 
 <p align="center">
   Transformo processos bagunçados em sistemas que funcionam.
